@@ -10,7 +10,6 @@ Built as an experiment in screen capture, template matching, concurrency, and re
 * Template matching with OpenCV
 * Keyboard-triggered actions
 * Audio confirmation feedback
-* Multithreaded processing loop
 * Configurable detection region and thresholds
 
 ## Tech Stack
